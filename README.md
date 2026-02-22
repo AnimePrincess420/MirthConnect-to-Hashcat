@@ -1,1 +1,1 @@
-converts MirthConnect ashes to hashcat
+converts MirthConnect hashes to hashcat
